@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell foundation
+Task 1 readme
